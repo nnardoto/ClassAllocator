@@ -1,0 +1,9 @@
+[Global]
+  Num_Eletivas   = 9
+  Vagas          = 40
+  Num_Escolhas   = 5
+  Turno          = 'M'    # x[_]yy
+
+[Turmas]
+  Num_Series     = 3
+  Num_Turmas     = [3, 4, 3]
